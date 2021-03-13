@@ -1039,7 +1039,7 @@ a:focus {
 	pointer-events: none;
 	display: grid;
 	grid-area: 2 / 1 / 3 / 2;
-	padding: 100px 0;
+	/* padding: 100px 0; */
 	padding-top: 0;
 	--gridgap: 1vw;
 	--gridwidth: 100%;
